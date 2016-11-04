@@ -1,4 +1,4 @@
-package com.razorfish.leet
+package com.will.leet
 
 import org.scalatest.FlatSpec
 

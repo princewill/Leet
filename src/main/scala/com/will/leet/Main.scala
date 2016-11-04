@@ -1,6 +1,6 @@
-package com.razorfish.leet
+package com.will.leet
 
-import com.razorfish.leet.Leet.Leetable
+import com.will.leet.Leet.Leetable
 
 object Leet {
 
