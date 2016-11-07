@@ -18,7 +18,7 @@ Note: `[o,O]` is not an owl face, it's the letter "o" and it should be replaced 
 
 ### Objective
 
-Use the apply method `com.razorfish.leet.Leet` object to convert a String into l337.
+Use the apply method `com.will.leet.Leet` object to convert a String into l337.
 
 ### Examples
 
